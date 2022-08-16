@@ -1,6 +1,9 @@
 {
   "name": "apitutorial",
   "version": "1.0.0",
+  "engines": {
+    "node": "v18.6.0"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
